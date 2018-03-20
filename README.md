@@ -1,10 +1,1 @@
-# Team1 - Fall 2017
-Team 1 Repository for Assignment 5 <br />
-
-YuHsing Chang: Part M <br />
-Mark Hibyan: Part N <br />
-Yingzi Ma: Part O <br />
-Yue Shu: Part P <br />
-
-All: Part Q
-
+A fully functional Technical Support application written in PHP with MySQL database. Multiple pages and multiple roles supported, including customers, technicians, administrators, product manager and etc. Different roles will have their own access limits to the site and functions, for example, incidents can only be created by technicians, and customers are not able to make edits on any existing business operation data in MySQL database, except for registering the products they purchased.
